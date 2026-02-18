@@ -37,8 +37,8 @@ Settings -> Actions -> General -> Workflow Permissions
 Enable GitHub Pages
 Settings -> Pages -> Build & Deployment -> Source -> GitHub Actions
 
-Change respository name
-Click on `_config.yml` -> Edit this file -> `repository:` -> (replace with your username/repository)
+Make a change
+Click on `mkdocs.yml` -> Edit this file -> `site_name:` -> (replace with your website name)
 
 <!-- More headings. Make What's Included and Checklist level 3 headings. -->
 
